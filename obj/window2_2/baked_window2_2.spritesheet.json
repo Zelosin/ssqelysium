@@ -1,0 +1,11 @@
+{
+	"columns": 12,
+	"duration_sec": 4.0,
+	"fps": 30.0,
+	"frame_count": 120,
+	"frame_height": 224,
+	"frame_width": 138,
+	"rows": 10,
+	"sheet_png": "res://obj/window2_2/baked_window2_2.png",
+	"source_node": "Window2(2)"
+}

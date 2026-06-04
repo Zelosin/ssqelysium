@@ -1,0 +1,11 @@
+{
+	"columns": 12,
+	"duration_sec": 4.0,
+	"fps": 30.0,
+	"frame_count": 120,
+	"frame_height": 240,
+	"frame_width": 434,
+	"rows": 10,
+	"sheet_png": "res://obj/book/baked_book.png",
+	"source_node": "Book"
+}

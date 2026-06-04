@@ -1,0 +1,11 @@
+{
+	"columns": 12,
+	"duration_sec": 4.0,
+	"fps": 30.0,
+	"frame_count": 120,
+	"frame_height": 226,
+	"frame_width": 152,
+	"rows": 10,
+	"sheet_png": "res://obj/baked_jacket.png",
+	"source_node": "Jacket"
+}

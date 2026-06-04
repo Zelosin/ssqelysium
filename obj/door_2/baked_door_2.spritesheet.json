@@ -1,0 +1,11 @@
+{
+	"columns": 12,
+	"duration_sec": 4.0,
+	"fps": 30.0,
+	"frame_count": 120,
+	"frame_height": 289,
+	"frame_width": 212,
+	"rows": 10,
+	"sheet_png": "res://obj/door_2/baked_door_2.png",
+	"source_node": "Door(2)"
+}

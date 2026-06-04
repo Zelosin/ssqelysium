@@ -1,0 +1,11 @@
+{
+	"columns": 12,
+	"duration_sec": 4.0,
+	"fps": 30.0,
+	"frame_count": 120,
+	"frame_height": 246,
+	"frame_width": 190,
+	"rows": 10,
+	"sheet_png": "res://obj/plant_2/baked_plant_2.png",
+	"source_node": "Plant(2)"
+}

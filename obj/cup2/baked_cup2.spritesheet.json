@@ -1,0 +1,11 @@
+{
+	"columns": 12,
+	"duration_sec": 4.0,
+	"fps": 30.0,
+	"frame_count": 120,
+	"frame_height": 186,
+	"frame_width": 129,
+	"rows": 10,
+	"sheet_png": "res://obj/cup2/baked_cup2.png",
+	"source_node": "Cup2"
+}
