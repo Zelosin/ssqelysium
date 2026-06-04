@@ -1,5 +1,4 @@
 # Godot 4+ specific ignores
-.godot/
 /android/
 
 # Web export output (re-export into build/web/)
